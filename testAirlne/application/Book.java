@@ -48,5 +48,8 @@ public class Book {
         this.name.set(name);
     }
 
-   
+   public String toString()
+   {
+	   return "";
+   }
      }
